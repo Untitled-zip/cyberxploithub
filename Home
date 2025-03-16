@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberXploitHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to CyberXploitHub</h1>
+        <p>Your go-to place for Ethical Hacking and Cybersecurity knowledge</p>
+    </header>
+    <footer>
+        <p>Copyright © 2025 CyberXploitHub</p>
+    </footer>
+</body>
+</html>
